@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.allButtons{
+    text-align: center;
+}
+
+.top{
+    display:block;
+}
+
+.button{
+    display:inline-block;
+    width:200px;
+    height:100px;
+    margin: 5px 3px 5px 3px;
+}
+
+#blue{
+    background-color: blue;
+    opacity: 30%;
+}
+
+#green{
+    background-color: green;
+    opacity: 30%;
+}
+
+#red{
+    background-color: red;
+    opacity: 30%;
+}
+
+#yellow{
+    background-color: yellow;
+    opacity: 30%;
+}
